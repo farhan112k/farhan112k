@@ -1,4 +1,4 @@
-# 🌌 Farhan, aka (farhanspace)
+# 🌌 Farhan, aka (farhan112k)
 
 <h4><code style="color:aqua">Android / Backend / Machine Learning</code></h4>
 
@@ -14,7 +14,7 @@ I'm beginner in programming. Mainly focusing in Java & Android. There is lot to 
 ### 🧩 Find me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhanspace/)
 &nbsp;&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/farhanspace_)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/_farhan112k)
 &nbsp;&nbsp;
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/farhanspace)
 &nbsp;&nbsp;
@@ -34,7 +34,7 @@ I'm beginner in programming. Mainly focusing in Java & Android. There is lot to 
 
 ## 📉 Github Status
 
-![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhanspace&show_icons=true&theme=gruvbox)
+![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhan112k&show_icons=true&theme=gruvbox)
 
 <details>
 <summary><h3>🔐 Extra information</h3></summary>
