@@ -1,8 +1,8 @@
 # 🌌 Farhan, aka (farhan112k)
 
-<h4><code style="color:aqua">Android / Backend / Machine Learning</code></h4>
+<h4><code style="color:red">Android / Backend / Machine Learning</code></h4>
 
-I'm beginner in programming. Mainly focusing in Java & Android. There is lot to learn and lot of mistake will happen. At the end hoping for success.
+I'm beginner in programming. Mainly focusing in Android. There is lot to learn and lot of mistake will happen. At the end hoping for success.
 
 ---
 <p>
@@ -22,19 +22,15 @@ I'm beginner in programming. Mainly focusing in Java & Android. There is lot to 
 
 <br>
 
-
 ### 🔨 Languages & Tools:
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,flutter,dart,html,css,ps,ai,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,flutter,dart,kotlin,js,html,css,ps,ai,figma)](https://skillicons.dev)
 
-#### 🚩Next thing to learn
-
-[![My Skills](https://skillicons.dev/icons?i=js,kotlin,spring,ts)](https://skillicons.dev)
 
 ## 📉 Github Status
 
-![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhan112k&show_icons=true&theme=gruvbox)
+![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhan112k&show_icons=true&theme=great-gatsby)
 
 <details>
 <summary><h3>🔐 Extra information</h3></summary>
